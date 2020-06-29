@@ -1,3 +1,3 @@
-l = float(input('lado: '))
+l = float(input('side: '))
 a = l**2
-print(f'The area of this squared is: {a}')
+print(f'The area of this square is: {a}')
