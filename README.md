@@ -6,12 +6,12 @@ O objetivo deste repositório é aplicar a liguagem Python na matemática básic
 
 ## **Fórmulas**
 
-- Area of a Circle:
+- Area of a Circle: https://tinyurl.com/y8q6r9kx
 
-- Area of a square:
+- Area of a square: 
 
-- Sum of three random integers numbers:
+- Sum of three random integers numbers: https://tinyurl.com/yap9vls4
 
-- Multiplication table:
+- Multiplication table: https://tinyurl.com/ybbnz86j
 
 ## **Exercícios resolvidos**
